@@ -1,0 +1,3 @@
+if (location.hash){
+    alert(location.hash.slice(1));
+}
